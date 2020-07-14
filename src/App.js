@@ -5,11 +5,14 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <div></div>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/App.js</code> and save to reload everything.
         </p>
+        <p>Did I reload.</p>
+        <p>SAVED ALL THE THINGS!!!!</p>
         <a
           className="App-link"
           href="https://reactjs.org"
